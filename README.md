@@ -1,9 +1,11 @@
 ## Olá! Eu sou o Wangley Quinhones
-
-- Dev Front-end
-- Estudando React
-- Estudando Python
-
+- Desenvolvedor Front-end
+- Aprendendo:
+  <div style="display: inline_block"><br>
+   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ </div>
+ 
 <div>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WangleyQuinhones&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangleyQuinhones&layout=compact&langs_count=168&theme=dracula"/>
